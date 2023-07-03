@@ -1,4 +1,4 @@
-01:00:00    # salita elevazione 20 inizio
+01:29:00    # salita elevazione 20 inizio
 01:45:00    # salita elevazione 20 fine
 03:48:00    # discesa elevazione 20 inizio
 03:52:00    # discesa elevazione 20 fine
@@ -10,7 +10,7 @@
 
 02:14:30    # salita elevazione 30 inizio
 02:16:00    # salita elevazione 30 fine
-03:34:00    # discesa elevazione 30 inizio
+03:34:20    # discesa elevazione 30 inizio
 03:36:00    # discesa elevazione 30 fine
 
 02:21:30    # salita elevazione 35 inizio
