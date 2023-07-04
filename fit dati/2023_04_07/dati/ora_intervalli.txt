@@ -1,0 +1,37 @@
+23:44:00    # salita elevazione 20 inizio
+23:59:00    # salita elevazione 20 fine
+01:47:00    # discesa elevazione 20 inizio
+01:53:00    # discesa elevazione 20 fine
+
+00:02:00    # salita elevazione 25 inizio
+00:10:00    # salita elevazione 25 fine
+01:41:54    # discesa elevazione 25 inizio
+01:45:00    # discesa elevazione 25 fine
+
+00:11:00    # salita elevazione 30 inizio
+00:15:25    # salita elevazione 30 fine
+01:31:00    # discesa elevazione 30 inizio
+01:37:00    # discesa elevazione 30 fine
+
+00:19:00    # salita elevazione 35 inizio
+00:21:48    # salita elevazione 35 fine
+01:23:00    # discesa elevazione 35 inizio
+01:26:23    # discesa elevazione 35 fine
+
+00:28:14    # salita elevazione 40 inizio
+00:30:34    # salita elevazione 40 fine
+01:17:47    # discesa elevazione 40 inizio
+01:21:00    # discesa elevazione 40 fine
+
+00:37:23    # salita elevazione 45 inizio
+00:39:43    # salita elevazione 45 fine
+01:08:20    # discesa elevazione 45 inizio
+01:13:00    # discesa elevazione 45 fine
+
+00:46:05    # salita elevazione 50 inizio
+00:49:00    # salita elevazione 50 fine
+01:00:00    # discesa elevazione 50 inizio
+01:05:00    # discesa elevazione 50 fine
+
+00:52:15    # salita elevazione 55 inizio
+00:55:30    # salita elevazione 55 fine
